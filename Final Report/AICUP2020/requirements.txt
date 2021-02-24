@@ -1,0 +1,6 @@
+numpy>=1.18.1
+gensim>=3.8.1
+pandas==1.1.4
+tensorflow==2.3.0
+kashgari>=2.0.0
+plotly==4.9.0

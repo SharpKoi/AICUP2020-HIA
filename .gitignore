@@ -1,0 +1,14 @@
+/.idea/
+/**/.ipynb_checkpoints/
+/**/__pycache__/
+/.data/
+/albert_zh_large/
+/bert_wwm_ext/
+/**/chinese_L-12_H-768_A-12
+/model/
+/output/
+/roberta_zh_base/
+/roberta_zh_large/
+/sample/
+/aicup_logo.png
+/*.zip
