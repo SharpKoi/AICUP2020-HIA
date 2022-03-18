@@ -49,7 +49,7 @@ https://www.notion.so/Final-Report-f7cb57f3efd34c339d40635ae135f2e4*
 首先要感謝 [Kashgari](https://github.com/BrikerMan/Kashgari) 這個非常方便且有力的套件，我們利用這個套件嘗試許多預訓練模型和模型結構，詳細的實作代碼已附上。
 
 ## Structure
-![Model Structure](images/The-BiLSTM-CRF-model-CS-confidence-score-BiLSTM-bidirectional-long-short-term-memory.png)
+![Model Structure](https://raw.githubusercontent.com/SharpKoi/AICUP2020-HIA/main/Final%20Report/images/BiLSTM-CRF%20diagram.png)
 
 上圖是我們使用的模型結構示意圖，該模型依序分成 Input Layer, Embedding Layer, BiLSTM Layer, CRF Layer and final Output Layer。
 
